@@ -1,7 +1,3 @@
-C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.csprojAssemblyReference.cache
-C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.AssemblyInfoInputs.cache
-C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.AssemblyInfo.cs
-C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.csproj.CoreCompileInputs.cache
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\bin\Debug\netcoreapp3.1\CountriesReflection.exe
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\bin\Debug\netcoreapp3.1\Countries.dll
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\bin\Debug\netcoreapp3.1\CountriesReflection.deps.json
@@ -9,6 +5,9 @@ C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\bin\Debug\netcoreapp3.1\CountriesReflection.runtimeconfig.dev.json
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\bin\Debug\netcoreapp3.1\CountriesReflection.dll
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\bin\Debug\netcoreapp3.1\CountriesReflection.pdb
+C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.csproj.CoreCompileInputs.cache
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.dll
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.pdb
 C:\Users\thelittlecitizen16\source\repos\CountriesReflection\CountriesReflection\obj\Debug\netcoreapp3.1\CountriesReflection.genruntimeconfig.cache
